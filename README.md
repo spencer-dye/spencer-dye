@@ -1,4 +1,11 @@
-### Hi there 👋, I'm Spencer, a Front-End Developer specializing in UI development. My favorite technology to use is React
+### Hi there 👋, I'm Spencer!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-dye/)
+
+I'm a Front-End Developer specializing in UI development. My favorite technology to use is React.
+
+- 🌱 I’m currently learning
+  - ⚛️ Redux and other third-party state management for React
+  - 🤖 Algorithms and data-structures
 
 <!--
 **spencer-dye/spencer-dye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
