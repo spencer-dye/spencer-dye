@@ -5,7 +5,7 @@ I'm a Front-End Developer specializing in UI development. My favorite technology
 
 - 🔭 I’m currently working on
   - Building static sites with GastsbyJS and NextJS
-  - Redesigning and Redevloping my portfolio
+  - Redesigning and Redeveloping my portfolio
 
 <!--
 **spencer-dye/spencer-dye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
