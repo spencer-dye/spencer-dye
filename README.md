@@ -3,9 +3,9 @@
 
 I'm a Front-End Developer specializing in UI development. My favorite technology to use is React.
 
-- 🌱 I’m currently learning
-  - ⚛️ Redux and other third-party state management for React
-  - 🤖 Algorithms and data-structures
+- 🔭 I’m currently working on
+  - Building static sites with GastsbyJS and NextJS
+  - Redesigning and Redevloping my portfolio
 
 <!--
 **spencer-dye/spencer-dye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
